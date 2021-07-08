@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.line{
+    height: 5px;
+    width: 65px;
+    background-color:black;
+    margin: auto;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#themaster{
+    background: linear-gradient(#71c0d9 0%,#98ebb9 25%,#a8e637 50%,#f06262 100%);
+}
